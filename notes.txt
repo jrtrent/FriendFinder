@@ -1,0 +1,4 @@
+class for chosen active-result result-selected
+<li class="active-result result-selected" data-option-array-index="2" style="">2</li>
+
+In mathematics, a function is originally the idealization of how a varying quantity depends on another quantity. For example, the position of a planet is a function of the time.
